@@ -1,0 +1,19 @@
+{
+  "name": "course-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rayofgoodness/course-project.git"
+  },
+  "author": "ray_of_goodness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayofgoodness/course-project/issues"
+  },
+  "homepage": "https://github.com/rayofgoodness/course-project#readme"
+}
